@@ -1,0 +1,7 @@
+---
+title: Lab 01
+author: Job N. Nyameino
+output: pdf_document
+---
+
+
